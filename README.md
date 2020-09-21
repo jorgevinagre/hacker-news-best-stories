@@ -11,6 +11,8 @@ An API that fecthes the Hacker News best stories and retrieves the top 20, sorte
 
 ## Does it build?
 
+![.NET Core](https://github.com/jorgevinagre/hacker-news-best-stories/workflows/.NET%20Core/badge.svg)
+
 ## Install and Run locally
 
 ```
